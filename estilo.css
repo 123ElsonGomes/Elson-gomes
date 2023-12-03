@@ -1,0 +1,32 @@
+body{
+    background-color: #f4f4f4;
+    font-family: "ARIAL", sans-serif;
+    margin: 0%;
+    padding: 0%;
+    color:#333;
+}
+.a{
+    padding: 1em 0;
+    background-color:  #333;
+    text-align: center;
+    color: #fff;
+}
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    
+    padding: 20px;
+    color: rgb(2, 2, 43);
+}
+.b{
+   display: flex;
+   align-items: center;
+
+}
+
+.d{
+   margin-right: 15px;
+   border-radius: 50%;
+
+}
